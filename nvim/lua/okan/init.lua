@@ -1,0 +1,7 @@
+require("okan.cmp")
+--require("okan.lsp")
+require("okan.telescope")
+require("okan.treesitter")
+require("okan.comment")
+require("okan.lualine")
+require("okan.lsp_extensions")
